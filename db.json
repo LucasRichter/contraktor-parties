@@ -1,0 +1,31 @@
+{
+  "contracts": [
+    {
+      "id": 1,
+      "title": "Teste Contrato",
+      "start_at": "2020-09-03",
+      "due_at": "2020-09-13",
+      "file_url": "",
+      "parties_id": [
+        1,
+        2
+      ]
+    }
+  ],
+  "parties": [
+    {
+      "id": 1,
+      "first_name": "Lucas Eduardo",
+      "last_name": "Richter Gonzaga",
+      "cpf": "16207483049",
+      "telephone": "51986603328"
+    },
+    {
+      "id": 2,
+      "first_name": "Naruto",
+      "last_name": "Uzumaki",
+      "cpf": "16207483049",
+      "telephone": "51986603328"
+    }
+  ]
+}
